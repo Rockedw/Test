@@ -29,6 +29,7 @@ def eval_metrics(actual, pred):
 
 
 if __name__ == "__main__":
+    print("seconde second seconde secondseconde secondseconde secondseconde secondseconde secondseconde secondseconde secondseconde secondseconde second")
     warnings.filterwarnings("ignore")
     np.random.seed(40)
 
